@@ -2,9 +2,10 @@
   "name": "test-driven-dev",
   "version": "1.0.0",
   "description": "",
-  "main": "string.js",
+  "main": "reverseString.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest reverseString.test.js",
+    "start": "node reverseString.js"
   },
   "author": "",
   "license": "ISC",
