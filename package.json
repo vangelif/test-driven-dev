@@ -4,7 +4,7 @@
   "description": "",
   "main": "reverseString.js",
   "scripts": {
-    "test": "jest calculator.test.js",
+    "test": "jest capitalize.test.js",
     "start": "node reverseString.js"
   },
   "author": "",
