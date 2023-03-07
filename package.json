@@ -4,7 +4,7 @@
   "description": "",
   "main": "reverseString.js",
   "scripts": {
-    "test": "jest reverseString.test.js",
+    "test": "jest calculator.test.js",
     "start": "node reverseString.js"
   },
   "author": "",
