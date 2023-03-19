@@ -1,0 +1,16 @@
+{
+  "name": "test-driven-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest capitalize.test.js",
+    "start": "node reverseString.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
